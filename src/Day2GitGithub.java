@@ -15,6 +15,7 @@ göndermek için kullandığımız kod Yalnız git push komutunu direk kullanmak
 Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
 kullanırız.
 Not =Github ogrendim
+6-) git pull --> Remote(yani uzak repo) dosyalarımızı guncellemek icin kullanilir
  */
 
 
